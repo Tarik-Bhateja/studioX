@@ -79,6 +79,13 @@
     <td><img src="https://i.imgur.com/sJQQwcx.png" alt="Screen5" width="400"/></td>
     <td><img src="https://i.imgur.com/Fs6grEL.png" alt="Screen6" width="400"/></td>
   </tr>
+  <tr>
+    <th>Http Errors</th>
+    <td><img src="https://i.imgur.com/mRfZsSK.png" alt="Screen5" width="400"/></td>
+    <td><img src="https://i.imgur.com/wpotWad.png" alt="Screen6" width="400"/></td>
+  </tr>
+
+  
 
   
 </table>
