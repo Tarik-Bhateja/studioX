@@ -57,3 +57,35 @@
 - **Outcome:** The platform successfully automated studio operations, improving efficiency and client satisfaction. The owner could manage his studio remotely, while the staff found it easier to handle their tasks.
 - **Learnings:** Gained experience in developing user-friendly interfaces, managing large media files, and integrating cloud-based services.
 
+## Screenshots
+<table>
+  <tr>
+    <th>Home</th>
+    <td><img src="https://i.imgur.com/fFn8gFT.png" alt="Screen1" width="400"/></td>
+    <td><img src="https://i.imgur.com/P1QmabE.png" alt="Screen2" width="400"/></td>
+  </tr>
+  <tr>
+    <th>Appointments</th>
+    <td><img src="https://i.imgur.com/a9jVFlg.png" alt="Screen3" width="400"/></td>
+    <td><img src="https://i.imgur.com/CwtRWJF.png" alt="Screen4" width="400"/></td>
+  </tr>
+  <tr>
+    <th>Admin Dash</th>
+    <td><img src="https://i.imgur.com/VIlqreA.png" alt="Screen5" width="400"/></td>
+    <td><img src="https://i.imgur.com/Bu8C4ba.png" alt="Screen6" width="400"/></td>
+  </tr>
+  <tr>
+    <th>Staff Dash</th>
+    <td><img src="https://i.imgur.com/sJQQwcx.png" alt="Screen5" width="400"/></td>
+    <td><img src="https://i.imgur.com/Fs6grEL.png" alt="Screen6" width="400"/></td>
+  </tr>
+
+  
+</table>
+
+
+
+
+
+
+
